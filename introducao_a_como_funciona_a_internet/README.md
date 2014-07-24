@@ -26,4 +26,4 @@ Ao receber todas as informações do servidor, seu navegador realiza sua leitura
 ###Quer aprender mais?
 
 - Leia este pequeno ebook [20 lições que aprendi sobre navegadores e a web](http://www.20thingsilearned.com/pt-BR)
-- [What's my DNS?](https://www.whatsmydns.net/) - Entenda visualmente como funcionam os servidores de DNS descobrindo onde são guardados os endereços dos sites no mundo inteiro
+- [What's my DNS?](https://www.whatsmydns.net/) - Entenda visualmente como funcionam os servidores de DNS descobrindo onde são guardados os endereços dos sites no mundo inteiro os IPs dos servidores de cada site
