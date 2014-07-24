@@ -1,4 +1,4 @@
-#A função do Web Designer
+#O Web Design
 
 Como o próprio nome indica, Web Design é o design específico pra web.
 
@@ -21,4 +21,4 @@ Assim, o Web Designer trabalha com o desenvolvimento Front-End.
 
 ---
 
-Obs.: só pra nos confundir um pouquinho, hoje já existem aplicações que rodam totalmente no cliente, abstraindo as tarefas que normalmente são feitas no back-end no front-end. Se você quiser saber mais, dá uma olhada [nesse site](http://nobackend.org/) :thumbsup:
+*Obs.*: só pra nos confundir um pouquinho, hoje já existem aplicações que rodam totalmente no cliente, abstraindo as tarefas que normalmente são feitas no back-end no front-end. Se você quiser saber mais, dá uma olhada [neste site](http://nobackend.org/).
