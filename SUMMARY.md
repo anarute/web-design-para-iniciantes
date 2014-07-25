@@ -13,4 +13,6 @@
 * [Criação de websites com HTML e CSS](criacao_de_websites_com_html_e_css/README.md)
    * [Hipertext Markup Language](criacao_de_websites_com_html_e_css/hipertext_markup_language.md)
        * [Sintaxe e semântica](criacao_de_websites_com_html_e_css/sintaxe_e_semantica.md)
+       * [Estrutura básica de uma página HTML](criacao_de_websites_com_html_e_css/estrutura_basica_de_uma_pagina_html.md)
+       * [Principais tags](criacao_de_websites_com_html_e_css/principais_tags.md)
 

@@ -13,7 +13,7 @@ Uma dica para para pensar um texto em elementos é tentar dividi-los em unidades
 
 ## Tags
 A tag é forma como escrevemos os elementos, representadas por `<`e `>` ao redor do elemento. Um elemento é normalmente representado por *tags de abertura* e *tags de fechamento* e tudo que estiver no meio das tags está contido no elemento. Exemplo, para escrevermos um parágrafo, utilizamos o seguinte código:
-```
+```html
 <p>Conteúdo do parágrafo</p>
 ```
 
