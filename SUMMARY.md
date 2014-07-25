@@ -19,4 +19,6 @@
            * [Div e span](criacao_de_websites_com_html_e_css/div_e_span.md)
            * [Containers](criacao_de_websites_com_html_e_css/containers.md)
        * [Pratique!](criacao_de_websites_com_html_e_css/pratique.md)
+   * [Estilizando o conteúdo com CSS](criacao_de_websites_com_html_e_css/estilizando_o_conteudo_com_css.md)
+       * [Inserindo CSS](criacao_de_websites_com_html_e_css/inserindo_css.md)
 
