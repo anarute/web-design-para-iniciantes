@@ -14,5 +14,9 @@
    * [Hipertext Markup Language](criacao_de_websites_com_html_e_css/hipertext_markup_language.md)
        * [Sintaxe e semântica](criacao_de_websites_com_html_e_css/sintaxe_e_semantica.md)
        * [Estrutura básica de uma página HTML](criacao_de_websites_com_html_e_css/estrutura_basica_de_uma_pagina_html.md)
-       * [Principais tags](criacao_de_websites_com_html_e_css/principais_tags.md)
+       * [Elementos textuais](criacao_de_websites_com_html_e_css/principais_tags.md)
+       * [Elementos estruturais](criacao_de_websites_com_html_e_css/elementos_estruturais.md)
+           * [Div e span](criacao_de_websites_com_html_e_css/div_e_span.md)
+           * [Containers](criacao_de_websites_com_html_e_css/containers.md)
+       * [Pratique!](criacao_de_websites_com_html_e_css/pratique.md)
 

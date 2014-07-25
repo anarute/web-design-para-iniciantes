@@ -1,0 +1,9 @@
+# Containers
+
+Os elementos abaixo possuem como principal função ser containers semânticamente. Ou seja, no lugar de utilizar uma `div` para agrupar as informações de um menu de navageção, você pode utilizar o elemento `nav` que acrescenta mais sentido ao seu código.
+
+- **Header**: o elemento `header`, conforme sua tradução, informa ao navegador que ali temos um cabeçalho. Não necessariamente precisa representar o cabeçalho da página, podendo ser o cabeçalho de uma seção, por exemplo. Note que é diferente do `head` do documento HTML!
+- **Section**: o elemento section, que traduzido temos "seção", indica ao navegador que o trecho englobado pelas tags `<section></section>` representa a seção de algo.
+- **Nav**: o elemento `nav` vem da palavra inglesa "navigation", que traduzida temos "navegação". As tags `<nav></nav>`, conforme o próprio nome sugere, envolvem uma seção de navegação do site, normalmente um grupo de links para áreas (em diferentes páginas ou não) de um mesmo website. Resumindo, estas tags funcionam como um container de links para navegação, ou, menu.
+- **Aside**: o elemento aside vem da própria palavra inglesa aside, que traduzida fica "ao lado". Suas tags `<aside></aside>` são utilizadas para representar conteúdos que tangenciem o conteúdo principal do web site. Isso não significa que este elemento será necessariamente o responsável por barras laterais, mas sim somente quando o conteúdo destas barras se encaixarem à sua semântica. Mais uma vez reforçamos que estas tags têm valor semântico no código e não estão relacionadas com layout.
+- **Footer**: o elemento `footer`, conforme sua tradução, informa ao navegador que ali temos um rodapé. Assim como para o `header`, não estamos falando necessariamente do rodapé da página, mas também de outros elementos, como do rodapé de seções ou artigos.
