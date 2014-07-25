@@ -10,4 +10,7 @@
        * [Mockups](criando_sites_com_html_e_css/mockups.md)
        * [Protótipos](criando_sites_com_html_e_css/prototipos.md)
        * [Ferramentas úteis](criando_sites_com_html_e_css/ferramentas_uteis.md)
+* [Criação de websites com HTML e CSS](criacao_de_websites_com_html_e_css/README.md)
+   * [Hipertext Markup Language](criacao_de_websites_com_html_e_css/hipertext_markup_language.md)
+       * [Sintaxe e semântica](criacao_de_websites_com_html_e_css/sintaxe_e_semantica.md)
 
