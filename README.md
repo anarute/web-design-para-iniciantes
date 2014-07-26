@@ -6,8 +6,8 @@ Neste minicurso pretendemos passar o conhecimento inicial para qualquer pessoa q
 
 ## Sumário
 
-- [Introdução a Internet](introducao_a_internet/)
-- [Introdução ao Web Design](introducao_ao_web_design/)
+- [Introdução a Internet](introducao_a_internet#introducao_a_internet)
+- [Introdução ao Web Design](introducao_ao_web_design#introdução-ao-web-design)
     - [O Web Design](introducao_ao_web_design/web_design.md)
     - [A pré-produção](introducao_ao_web_design/pre-producao.md)
         - [Wireframes](introducao_ao_web_design/wireframes.md)
@@ -15,7 +15,7 @@ Neste minicurso pretendemos passar o conhecimento inicial para qualquer pessoa q
         - [Protótipos](introducao_ao_web_design/prototipos.md)
         - [Ferramentas úteis](introducao_ao_web_design/ferramentas_uteis.md)
     - [Referências, referências, referências](introducao_ao_web_design/referencias.md)
-- [Introdução ao Front-End](introducao_ao_front_end/)
+- [Introdução ao Front-End](introducao_ao_front_end#introdução-ao-front-end)
     - [O que é o Front-End?](introducao_ao_front_end/o_front_end.md)
     - HTML
         - [Hipertext Markup Language](introducao_ao_front_end/hipertext_markup_language.md)
