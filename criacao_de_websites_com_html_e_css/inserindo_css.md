@@ -8,15 +8,13 @@ Significa realizar alterações diretamente na tag do elemento a ser estilizado 
 ```html
 <p style="color: #FF0000;">
   Oi! A cor deste parágrafo foi mudada inline através
-  do <strong>atributo</strong> <code>style</code> na
-  tag <code>p</code>.
+  do atributo style na tag <p>.
 </p>
 ```
 Que gera este resultado:
 <p style="color: #FF0000;">
   Oi! A cor deste parágrafo foi mudada inline através
-  do <strong>atributo</strong> <code>style</code> na
-  tag <code>p</code>.
+  do atributo style na tag `<p>`.
 </p>
 
 ## Tag style
