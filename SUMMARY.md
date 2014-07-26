@@ -21,4 +21,7 @@
        * [Pratique!](criacao_de_websites_com_html_e_css/pratique.md)
    * [Estilizando o conteúdo com CSS](criacao_de_websites_com_html_e_css/estilizando_o_conteudo_com_css.md)
        * [Inserindo CSS](criacao_de_websites_com_html_e_css/inserindo_css.md)
+       * [Seletores](criacao_de_websites_com_html_e_css/seletores.md)
+       * [Propriedades tipográficas](criacao_de_websites_com_html_e_css/propriedades_de_estilo.md)
+       * [Posicionando elementos com CSS](criacao_de_websites_com_html_e_css/posicionando_elementos_com_css.md)
 
