@@ -6,7 +6,7 @@ Neste minicurso pretendemos passar o conhecimento inicial para qualquer pessoa q
 
 ## Sumário
 
-- [Introdução a Internet](introducao_a_internet#introducao_a_internet)
+- [Introdução a Internet](introducao_a_internet#introdução-a-internet)
 - [Introdução ao Web Design](introducao_ao_web_design#introdução-ao-web-design)
     - [O Web Design](introducao_ao_web_design/web_design.md)
     - [A pré-produção](introducao_ao_web_design/pre-producao.md)
