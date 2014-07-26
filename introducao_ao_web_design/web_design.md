@@ -1,4 +1,4 @@
-#O Web Design
+# O Web Design
 
 Como o próprio nome indica, Web Design é o design específico pra web.
 
@@ -9,11 +9,11 @@ Por ser um campo vasto, existem vários tipos de especialistas dentro do Web Des
 Existem algumas formas de pensar o trabalho de Web Design. A que vamos trabalhar aqui é o Design centrado no usuário. Deste modo, durante o processo de design, temos que levar em conta as necessidades, desejos e limitações do ser humano durante todas as etapas de realização do projeto.
 Termos do desenvolvimento web
 
-##Back-End
+## Back-End
 
 O acesso a sites utiliza a arquitetura cliente/servidor. A parte do projeto que é executada no servidor chama-se Back-End e utiliza linguagens de programação como PHP, Java e Ruby.
 
-##Front-End
+## Front-End
 
 Chamamos de desenvolvimento Front-End a criação do layout e a manipulação dos elementos visuais em um web site. Para esta parte do projeto, usamos as linguagens HTML, CSS e Javascript, sendo esse trabalho executado no navegador (cliente).
 

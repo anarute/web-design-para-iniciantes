@@ -12,6 +12,9 @@ Bem, nessa arquitetura, cliente é o terminal de acesso e servidor é o computad
 
 Um servidor pode atuar de diversas formas, sendo que seu funcionamento básico é o envio de informações pedidas em um dado terminal que está conectado a ele, localmente ou não. Um servidor pode receber diversos parâmetros enviados pelo cliente por ações do usuário e a resposta que o servidor retornará ao cliente será baseada no processamento dessas informações.
 
-##Saiba mais!
+---
+
+#### Quer aprender mais?
+
 - [Onde mora a internet](http://www.google.com/about/datacenters/gallery/#/) é uma página do próprio Google que expõe fotos de seus gigantescos Data Centers, ou seja, servidores, permitindo visualizar como é por dentro aquilo que denomina-se Internet física.
 - [Como funciona a internet?](http://docs.escolamupi.com.br/internet-infografico) - Pequeno infográfico que demonstra todo o ciclo por trás de quando você digita um endereço até quando as informações chegam até o seu navegador
