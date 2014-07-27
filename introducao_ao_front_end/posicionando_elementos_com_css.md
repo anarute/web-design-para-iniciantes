@@ -6,4 +6,6 @@ De forma resumida, todo elemento HTML tem o formato de uma caixa retangular, mes
 
     * { border: 1px solid #CCC;}
 
-Onde`*` seleciona todos os objetos da página. Perceba como tudo tem um formato retangular. Esse conceito é chamado de **modelo de caixa**.
+Onde `*` seleciona todos os objetos da página. Perceba como tudo tem um formato retangular. Esse conceito é chamado de **modelo de caixa**.
+
+Perceba também que existem elementos que englobam outros, essa relação cria um "parentesco" entre eles, nos permitindo chamá-los de pais ou filhos, sendo pai o elemento que engloba e filho o que está dentro do outro. Entender essa relação é muito importante ao se trabalhar com CSS, pois existe um conceito chamado **hierarquia** no qual algumas propriedades são *herdadas* e passadas de pai para filho.

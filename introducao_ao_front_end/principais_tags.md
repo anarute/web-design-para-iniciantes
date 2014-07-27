@@ -10,10 +10,10 @@
 `href` é o endereço do link e `target` onde o link será aberto, neste caso `_blank` abrirá numa nova aba.
 - **Listas**: as listas são representadas pelos elementos `<ul>`quando a lista não é ordenada e `<ol>` quando ordenadas. As listas contém itens, que também são elementos HTML, representados pelas tags `<li>`, por exemplo:
 ```html
-    <ul>
-        <li>Item 1</li>
-        <li>Item 2</li>
-    </ul>
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+</ul>
 ```
 - **Imagens**:
 ```
